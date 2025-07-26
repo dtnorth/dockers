@@ -19,7 +19,7 @@ docker network create dockers
 
 Just select the docker you want to start.
 
-Portainer could be used to manage all this in a grafical interface.
+Portainer could be used to manage all this in a graphical interface.
 
 In case you use conky and the following in .conkyrc
 
